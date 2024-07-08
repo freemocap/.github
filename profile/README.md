@@ -9,7 +9,9 @@ To achieve this goal, we are taking the following scientific, educational, and a
 - Advocate for the accessibility of science and technology for artistic implementation; particularly relating to 3D animation, game development, and dance.
 
 https://freemocap.org
+
 https://freemocapfoundation.org
+
 https://github.com/freemocap/freemocap
 
 <!--
