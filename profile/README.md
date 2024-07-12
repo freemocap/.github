@@ -19,8 +19,9 @@ https://freemocapfoundation.org
 ### https://github.com/freemocap/skellycam 💀📸
 ### https://github.com/freemocap/skellytracker 💀🔭
 ### https://github.com/freemocap/skellyforge 💀🛠️
-### https://github.com/freemocap/skellyforge 💀🛠️
-### https://github.com/freemocap/freemocap_blender_addon 💀🥄 **[INCLUDES BLENDER ADDON]**
+
+## Blender Addon
+### https://github.com/freemocap/freemocap_blender_addon 💀🥄 
 
 ## AI Stuff
 ### https://github.com/freemocap/skellybot 💀🤖
