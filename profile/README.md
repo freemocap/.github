@@ -12,14 +12,20 @@ https://freemocap.org
 
 https://freemocapfoundation.org
 
+## PRIMARY FREEMOCAP SOFTWARE
+### https://github.com/freemocap/freemocap 💀✨
 
-## https://github.com/freemocap/freemocap 💀✨[👈PRIMARY FREEMOCAP SOFTWARE]
-
-### Sub-skelly repos (selected)
+## Sub-skelly repos (selected)
 ### https://github.com/freemocap/skellycam 💀📸
 ### https://github.com/freemocap/skellytracker 💀🔭
 ### https://github.com/freemocap/skellyforge 💀🛠️
+### https://github.com/freemocap/skellyforge 💀🛠️
+### https://github.com/freemocap/freemocap_blender_addon 💀🥄 **[INCLUDES BLENDER ADDON]**
+
+## AI Stuff
 ### https://github.com/freemocap/skellybot 💀🤖
+
+
 
 <!--
 
