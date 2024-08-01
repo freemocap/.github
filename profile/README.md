@@ -36,13 +36,19 @@ https://freemocapfoundation.org
 ### https://github.com/freemocap/freemocap_foundation
 
 ## Website repos:
-### `freemocap.org` website docs: https://github.com/freemocap/freemocap_dot_org
-### `freemocapfoundation.org` website docs: https://github.com/freemocap/freemocapfoundation_dot_org
+### `freemocap.org` website docs
+#### https://github.com/freemocap/freemocap_dot_org
+
+### `freemocapfoundation.org` website docs
+#### https://github.com/freemocap/freemocapfoundation_dot_org
 
 ## Project planning and roadmaps
-### FreeMoCap Development Planning and Roadmapping: https://github.com/orgs/freemocap/projects/16
-### FreeMoCap Funding Proposal Planning: https://github.com/orgs/freemocap/projects/31
-### Other project boards: https://github.com/orgs/freemocap/projects
+### FreeMoCap Development Planning and Roadmapping
+#### https://github.com/orgs/freemocap/projects/16
+### FreeMoCap Funding Proposal Planning
+#### https://github.com/orgs/freemocap/projects/31
+### Other project boards
+#### https://github.com/orgs/freemocap/projects
 
 <!--
 
