@@ -16,8 +16,8 @@ https://freemocapfoundation.org
 ### https://github.com/freemocap/freemocap 💀✨
 
 ## Documentation: 
-### https://freemocap.github.io/documentation/ 💀📚
-### [Docs Repo](https://github.com/freemocap/documentation)
+### Docs site: https://freemocap.github.io/documentation/ 💀📚
+### Docs Repo: https://github.com/freemocap/documentation
 
 ## Sub-skelly repos (selected)
 ### https://github.com/freemocap/skellycam 💀📸
