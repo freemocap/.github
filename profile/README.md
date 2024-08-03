@@ -37,11 +37,11 @@ https://freemocapfoundation.org
 ### https://github.com/freemocap/freemocap_foundation
 
 ## Website repos:
-### `freemocap.org` website docs
-#### https://github.com/freemocap/freemocap_dot_org
+#### Website: [`freemocap.org`](https://freemocap.org) 
+##### Repo: https://github.com/freemocap/freemocap_dot_org
 
-### `freemocapfoundation.org` website docs
-#### https://github.com/freemocap/freemocapfoundation_dot_org
+#### Website: [`freemocapfoundation.org`](https://freemocapfoundation.org) 
+##### Repo> https://github.com/freemocap/freemocapfoundation_dot_org
 
 ## Project planning and roadmaps
 ### FreeMoCap Development Planning and Roadmapping
