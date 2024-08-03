@@ -12,12 +12,12 @@ https://freemocap.org
 
 https://freemocapfoundation.org
 
-## PRIMARY FREEMOCAP SOFTWARE
+## CORE FREEMOCAP SOFTWARE:
 ### https://github.com/freemocap/freemocap 💀✨
 
 ## Documentation: 
-### Docs site: https://freemocap.github.io/documentation/ 💀📚
-### Docs Repo: https://github.com/freemocap/documentation
+### https://freemocap.github.io/documentation/ 💀📚
+#### Docs Repo: https://github.com/freemocap/documentation
 
 ## Sub-skelly repos (selected)
 ### https://github.com/freemocap/skellycam 💀📸
