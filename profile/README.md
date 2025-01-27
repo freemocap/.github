@@ -29,7 +29,7 @@ https://freemocapfoundation.org
 
 ### AI Stuff
 #### https://github.com/freemocap/skellybot 💀🤖
-#### https://github.com/freemocap/skellysubs💀🤖💬
+#### https://github.com/freemocap/skellysubs 💀🤖💬
 
 ### Other Repositories
 #### https://github.com/orgs/freemocap/repositories
